@@ -1,0 +1,11 @@
+body {
+    padding: 0 30px;
+}
+
+.form-group {
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 10px;
+    justify-content: space-between;
+    width: 300px;
+}
